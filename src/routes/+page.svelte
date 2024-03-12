@@ -98,7 +98,7 @@
 							</div>
 
 							<article
-								class="shadow-softShadow relative mt-[100px] flex max-w-[713px] flex-col rounded-xl bg-white px-5 py-4 md:mb-0"
+								class="shadow-softShadow relative mt-[100px] flex max-w-[713px] flex-col rounded-xl bg-white px-5 py-4 md:mb-0 md:mt-0"
 							>
 								<h1 class=" text-xl font-bold leading-8 text-secondaryBlack">{item.role}</h1>
 								<div class="text-softGray">
