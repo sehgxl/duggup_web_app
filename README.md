@@ -1,38 +1,32 @@
-# create-svelte
+# Duggup Web App
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Deployed App Link : [duggup-web-app](https://duggup-web-app.vercel.app/)
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+## 👨‍💻 Installation
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install the app.
 
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
+## 📝 Libraries Used
+- [svelte-kit](https://kit.svelte.dev/)
+- [tailwind](https://tailwindcss.com/)
+- [shadcn-svelte](https://www.shadcn-svelte.com/)
 
-To create a production version of your app:
+## 💻 Demo Video 
 
-```bash
-npm run build
-```
+- [video-link](https://www.loom.com/share/fdb94841143b499d95cd0802f9395044?sid=f093dc39-23c7-4982-a268-233fe83c7193)
 
-You can preview the production build with `npm run preview`.
+### What could have been better?
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- Having the ability to change data via using some modals or drawers.
+
+
+
+
+
+
+
